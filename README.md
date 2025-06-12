@@ -20,6 +20,8 @@ This project was developed as part of my Master of IT coursework. It is a full-s
 ## Reflection
 This project helped me understand the full development cycle of a mobile app. I learned how to structure client-server-database interaction using Express and MongoDB, and how to turn a web app into a mobile-ready hybrid app using Cordova. I also gained experience in debugging, API testing, and handling real-time data storage.
 
-##Optional Links
-[📄 View Report (PDF)](report.pdf)
-[📄 View Report (PDF)](report.pdf)
+## Optional Links
+- [📄 View Report (PDF)](report.pdf)
+- [Index.html](client/index.html)
+- [Index.js](client/js/index.js)
+- [apiServer.js](server/apiServer.js)
