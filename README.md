@@ -25,3 +25,4 @@ This project helped me understand the full development cycle of a mobile app. I 
 - [Index.html](client/index.html)
 - [Index.js](client/js/index.js)
 - [apiServer.js](server/apiServer.js)
+- [Web Static](https://beauyonradee.github.io/Gift-delivery-apps/)
